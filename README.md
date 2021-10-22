@@ -1,4 +1,4 @@
-### Hi there, I'm Chiheb Edine Zoghlemi - aka the next tony stark 👋
+### Hi there, I'm Chiheb Edine Zoghlemi - aka the next Tony Stark 👋
 
 
 ## I'm a Computer science student, Software engineer, AI consultant!!
