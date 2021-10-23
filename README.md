@@ -3,7 +3,7 @@
 
 ## I'm a Computer science student, Software engineer, AI consultant!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate with other developers to share knowldge and learn from each other 
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn new technlogies
 - ⚡ Fun fact: I love music, videogames, graphic design and one piece
