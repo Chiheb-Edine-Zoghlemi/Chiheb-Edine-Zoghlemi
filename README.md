@@ -1,7 +1,7 @@
 ### Hi there, I'm Chiheb Edine Zoghlemi - aka the next Tony Stark 👋
 
 
-## I'm a Computer science student, Software engineer, AI consultant!!
+## I'm a AI researcher/Software engineer!!
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate with other developers to share knowldge and learn from each other 
